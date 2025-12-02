@@ -1,29 +1,7 @@
 
-# Core dependencies
-numpy==2.1.1
-pandas==2.2.2
-requests==2.31.0
-
-# NLP + Transformers
-transformers==4.44.2
-sentencepiece==0.2.0
-accelerate==0.34.2
-tokenizers==0.20.1
-
-# Torch (PyTorch) for Python 3.13 — currently nightly build only
-# Use this line for Windows + CPU
-torch --index-url https://download.pytorch.org/whl/nightly/cpu
-
-# Translation support
-sacremoses==0.1.1
-
-# Jupyter
-jupyterlab==4.2.5
-ipykernel==6.29.5
-
-# Utility
-python-dotenv==1.0.1
-tqdm==4.66.4
-rich==13.7.1
-sqlalchemy==2.0.32
+streamlit
+pandas
+matplotlib
+seaborn
+numpy
 
