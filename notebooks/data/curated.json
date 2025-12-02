@@ -1,0 +1,164 @@
+
+
+[
+  {
+    "id": "1",
+    "title": "Understanding Fractions",
+    "language": "en",
+    "url": "",
+    "transcript": "Fractions represent equal parts of a whole. A fraction has two parts: the numerator and the denominator. The numerator shows how many parts we have, while the denominator shows how many equal parts the whole is divided into.",
+    "summary": ""
+  },
+  {
+    "id": "2",
+    "title": "Adding Fractions",
+    "language": "en",
+    "url": "",
+    "transcript": "To add fractions with the same denominator, simply add the numerators and keep the denominator the same. For fractions with different denominators, first convert them to equivalent fractions with a common denominator.",
+    "summary": ""
+  },
+  {
+    "id": "3",
+    "title": "Introduction to Algebra",
+    "language": "en",
+    "url": "",
+    "transcript": "Algebra is a branch of mathematics where letters are used to represent unknown numbers. An algebraic equation shows a relationship between known and unknown values. Example: x + 3 = 7.",
+    "summary": ""
+  },
+  {
+    "id": "4",
+    "title": "Basic Geometry Shapes",
+    "language": "en",
+    "url": "",
+    "transcript": "Geometry deals with shapes and their properties. Common shapes include triangles, squares, rectangles, and circles. Each shape has unique characteristics such as sides, angles, and symmetry.",
+    "summary": ""
+  },
+  {
+    "id": "5",
+    "title": "Simple Interest Formula",
+    "language": "en",
+    "url": "",
+    "transcript": "Simple interest is calculated using the formula SI = (P × R × T) / 100, where P is principal amount, R is rate of interest, and T is time in years.",
+    "summary": ""
+  },
+  {
+    "id": "6",
+    "title": "Photosynthesis",
+    "language": "en",
+    "url": "",
+    "transcript": "Photosynthesis is the process by which green plants use sunlight to convert carbon dioxide and water into glucose and oxygen. Chlorophyll in the leaves helps absorb sunlight.",
+    "summary": ""
+  },
+  {
+    "id": "7",
+    "title": "Plant Cells",
+    "language": "en",
+    "url": "",
+    "transcript": "A plant cell contains a cell wall, cell membrane, nucleus, chloroplasts, and vacuoles. Chloroplasts help plants make food through photosynthesis.",
+    "summary": ""
+  },
+  {
+    "id": "8",
+    "title": "Water Cycle",
+    "language": "en",
+    "url": "",
+    "transcript": "The water cycle includes evaporation, condensation, and precipitation. Water from oceans evaporates, forms clouds, and falls as rain or snow.",
+    "summary": ""
+  },
+  {
+    "id": "9",
+    "title": "States of Matter",
+    "language": "en",
+    "url": "",
+    "transcript": "Matter exists in three states: solid, liquid, and gas. Solids have fixed shape, liquids take the shape of their container, and gases spread out to fill the available space.",
+    "summary": ""
+  },
+  {
+    "id": "10",
+    "title": "Renewable Energy",
+    "language": "en",
+    "url": "",
+    "transcript": "Renewable energy comes from natural sources like sunlight, wind, and water. These sources replenish naturally and are better for the environment.",
+    "summary": ""
+  },
+  {
+    "id": "11",
+    "title": "Fractions in Hindi",
+    "language": "hi",
+    "url": "",
+    "transcript": "भिन्न संख्याएँ किसी वस्तु के बराबर भागों को दर्शाती हैं। भिन्न के दो भाग होते हैं - अंश और हर। अंश बताता है कि हमारे पास कितने भाग हैं और हर बताता है कि कुल कितने बराबर भाग हैं।",
+    "summary": ""
+  },
+  {
+    "id": "12",
+    "title": "गुणा और भाग (Multiplication and Division)",
+    "language": "hi",
+    "url": "",
+    "transcript": "गुणा बार-बार जोड़ने का संक्षिप्त रूप है। उदाहरण: 3 × 4 का अर्थ है 3 को चार बार जोड़ना। भाग एक संख्या को बराबर हिस्सों में बाँटने की प्रक्रिया है।",
+    "summary": ""
+  },
+  {
+    "id": "13",
+    "title": "बीजगणित परिचय (Algebra Basics)",
+    "language": "hi",
+    "url": "",
+    "transcript": "बीजगणित में हम संख्याओं के स्थान पर अक्षरों का उपयोग करते हैं। समीकरण में ज्ञात और अज्ञात राशियाँ होती हैं। उदाहरण: x + 5 = 12।",
+    "summary": ""
+  },
+  {
+    "id": "14",
+    "title": "पौधों में प्रकाश संश्लेषण",
+    "language": "hi",
+    "url": "",
+    "transcript": "प्रकाश संश्लेषण वह प्रक्रिया है जिसमें पौधे सूर्य के प्रकाश की सहायता से कार्बन डाइऑक्साइड और पानी से भोजन बनाते हैं। इस प्रक्रिया में ग्लूकोज और ऑक्सीजन उत्पन्न होते हैं।",
+    "summary": ""
+  },
+  {
+    "id": "15",
+    "title": "भारतीय मौसम चक्र",
+    "language": "hi",
+    "url": "",
+    "transcript": "भारत में मौसम चक्र में गर्मी, वर्षा और सर्दी के प्रमुख मौसम शामिल हैं। मानसून जून से सितंबर तक वर्षा लाता है।",
+    "summary": ""
+  },
+  {
+    "id": "16",
+    "title": "English Grammar: Nouns",
+    "language": "en",
+    "url": "",
+    "transcript": "A noun is a word that names a person, place, thing, or idea. Examples include teacher, city, apple, and happiness.",
+    "summary": ""
+  },
+  {
+    "id": "17",
+    "title": "English Grammar: Verbs",
+    "language": "en",
+    "url": "",
+    "transcript": "A verb is an action word. It describes what someone or something does. Examples: run, eat, play, think.",
+    "summary": ""
+  },
+  {
+    "id": "18",
+    "title": "History: Indus Valley Civilization",
+    "language": "en",
+    "url": "",
+    "transcript": "The Indus Valley Civilization was one of the earliest urban civilizations. It had planned cities, drainage systems, and advanced architecture.",
+    "summary": ""
+  },
+  {
+    "id": "19",
+    "title": "Civics: What is Democracy?",
+    "language": "en",
+    "url": "",
+    "transcript": "Democracy is a form of government where people elect their representatives. It ensures equality, freedom, and participation.",
+    "summary": ""
+  },
+  {
+    "id": "20",
+    "title": "Geography: Types of Landforms",
+    "language": "en",
+    "url": "",
+    "transcript": "Landforms are natural features on Earth. Common landforms include mountains, plateaus, plains, deserts, and valleys.",
+    "summary": ""
+  }
+]
